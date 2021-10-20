@@ -29,10 +29,10 @@ source install/setup.bash
 source the ros2 worksapce and
 
 # In terminal, run
-$ ros2 run teleop_cpp_ros2 teleop_cpp_ros2
+ros2 run teleop_cpp_ros2 teleop
 
 # If you want to see the outputs, check the /cmd_vel topic
-$ ros2 topic echo /cmd_vel
+ros2 topic echo /cmd_vel
 ```
 
 
