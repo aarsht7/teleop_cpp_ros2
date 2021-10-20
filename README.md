@@ -71,7 +71,9 @@ s/S : stop
 q/z : increase/decrease max speeds by 10%
 w/x : increase/decrease only linear speed by 10%
 e/c : increase/decrease only angular speed by 10%
-
+NOTE: Increasing or Decreasing will take affect live on the moving robot.
+      Consider Stopping the robot before changing it.
+      
 CTRL-C to quit
 ```
 
